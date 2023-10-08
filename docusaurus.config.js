@@ -115,6 +115,10 @@ module.exports = {
                             href: "https://mlite.id/",
                         },
                         {
+                            label: "drg. F. Basoro",
+                            href: "https://basoro.id/",
+                        },
+                        {
                             label: "Topidesta Blog",
                             href: "https://topidesta.my.id/",
                         },
