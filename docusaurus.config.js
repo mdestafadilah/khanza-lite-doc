@@ -8,7 +8,7 @@ module.exports = {
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
-    favicon: "img/favicon.ico",
+    favicon: "img/logo.png",
     organizationName: "mdestafadilah", // Usually your GitHub org/user name.
     projectName: "khanza-lite-doc", // Usually your repo name.
 
@@ -86,7 +86,7 @@ module.exports = {
             title: "BUKU SAKU",
             logo: {
                 alt: "KHANZA LITE DOCUMENTATION",
-                src: "img/logo.svg",
+                src: "img/logo.png",
             },
             items: [{
                 to: "/blog",
